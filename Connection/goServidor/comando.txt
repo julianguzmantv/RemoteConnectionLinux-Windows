@@ -1,0 +1,8 @@
+S.ficheros     bloques de 1M Usados Disponibles Uso% Montado en
+udev                    3949      0        3949   0% /dev
+tmpfs                    795      2         794   1% /run
+/dev/sda5              29102   9487       18113  35% /
+tmpfs                   3973     14        3960   1% /dev/shm
+tmpfs                      5      0           5   0% /run/lock
+tmpfs                    795      4         791   1% /run/user/1000
+total                  38617   9505       27609  26% -
